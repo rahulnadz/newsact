@@ -1,0 +1,60 @@
+.textcenter {
+  text-align: center !important;
+}
+.para {
+  text-align: justify !important;
+  line-height: 1.5 !important;
+  font-size: 16px !important;
+}
+.team img {
+  width: 100%;
+  padding: 5%;
+}
+.title h1 {
+  color: #771212;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-weight: bold !important;
+  text-decoration: underline;
+  margin-bottom: 5%;
+}
+.aboutpara {
+  margin-top: 3%;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+.pad2 {
+  padding: 2% !important;
+}
+.pad1 {
+  padding: 1% !important;
+}
+.btn {
+  margin-top: 5% !important;
+  width: 100% !important;
+}
+.btn-default {
+  color: #ffffff !important;
+  background-color: #771212 !important;
+  border-color: #ccc !important;
+}
+.fa {
+  font-size: 25px !important;
+  color: #B10000 !important;
+  line-height: 2 !important;
+}
+.logo {
+  width: 60%;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+.social {
+  margin-top: 4% !important;
+}
+adimg img {
+  margin-top: 8%;
+}
+/*.nav>li>a {
+  padding: 5px !important;  
+}*/

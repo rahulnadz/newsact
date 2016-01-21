@@ -1,0 +1,21 @@
+.aboutus {
+  background-color: #F1F6F8;
+}
+.aboutus img {
+  width: 100% !important;
+}
+.ourteam {
+  background-color: #ffffff;
+}
+.contactus {
+  background-color: #F1F6F8;
+}
+.footer {
+  background-color: #771212;
+  height: 12vh;
+}
+.footer p {
+  margin-top: 2%;
+  color: white;
+  font-size: 16px;
+}
